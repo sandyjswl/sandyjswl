@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at ThoughtWorks
 - 🌱 I’m currently learning Statistics and Data Science, along with Rust.
 - 📫 How to reach me: sandeepjswl123@gmail.com
-- 😄 Pronouns: he
+
 
 
 <!--
