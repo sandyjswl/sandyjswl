@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sandeep. I'm a Software Developer, currently working for ThoughtWorks.
+### Hi there 👋, I'm Sandeep. I'm a Software Developer.
 
 
 - 🔭 I’m currently working at ThoughtWorks
