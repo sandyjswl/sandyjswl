@@ -1,14 +1,16 @@
 ### Hi there 👋, I'm Sandeep. I'm a Software Developer.
 
 
-- 🔭 I’m currently working at ThoughtWorks
-- 🌱 I’m currently learning Statistics and Data Science, along with Rust.
-- 📫 How to reach me: sandeepjswl123@gmail.com
+
 
 
 
 <!--
 **sandyjswl/sandyjswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working at ThoughtWorks
+- 🌱 I’m currently learning Statistics and Data Science, along with Rust.
+- 📫 How to reach me: sandeepjswl123@gmail.com
 
 Here are some ideas to get you started:
 
